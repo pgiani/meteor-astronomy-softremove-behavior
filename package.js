@@ -2,7 +2,7 @@ Package.describe({
   name: 'pgiani:astronomy-softremove-behavior',
   version: '3.0.0',
   summary: 'Soft remove behavior for Meteor Astronomy',
-  git: 'https://github.com/jagi/meteor-astronomy-softremove-behavior.git',
+  git: 'https://github.com/pgiani/meteor-astronomy-softremove-behavior',
 });
 
 Npm.depends({
