@@ -13,7 +13,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.3');
 
   api.use(
-    ['ecmascript', 'es5-shim', 'pgiani:astronomy@2.0.0'],
+    ['ecmascript', 'es5-shim', 'pgiani:redis-astronomy@1.0.0'],
     ['client', 'server'],
   );
 
