@@ -2,7 +2,7 @@ Package.describe({
   name: 'pgiani:astronomy-softremove-behavior',
   version: '3.0.0',
   summary: 'redis-oplog compatible soft remove behavior for Meteor Astronomy',
-  git: 'https://github.com/pgiani/Soft-remove-behavior-for-Meteor-Astronomy',
+  git: 'https://github.com/pgiani/meteor-astronomy-softremove-behavior',
 });
 
 Npm.depends({
