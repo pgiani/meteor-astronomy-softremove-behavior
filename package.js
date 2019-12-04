@@ -10,7 +10,7 @@ Npm.depends({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.3');
+  api.versionsFrom('1.3.1');
 
   api.use(
     ['ecmascript', 'es5-shim', 'pgiani:redis-astronomy@1.0.0'],
